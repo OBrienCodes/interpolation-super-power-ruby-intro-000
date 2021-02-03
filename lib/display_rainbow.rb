@@ -9,4 +9,3 @@ def display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'viol
   puts "#{colors[5]}"
   puts "#{colors[6]}"
 end
-
